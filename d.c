@@ -1,3 +1,3 @@
 void main(){
-	print("master") ;
+	print("oooo no master") ;
 }
