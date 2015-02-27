@@ -1,1 +1,1 @@
-modify b.c in branch master
+first modify b.c in master for conflict
